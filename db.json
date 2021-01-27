@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Tooth Pasting",
+      "day": "Feb 5th at 2:30",
+      "reminder": true
+    },
+    {
+      "text": "Take test",
+      "day": "friday",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "React Tutorials",
+      "day": "tomorrow",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
